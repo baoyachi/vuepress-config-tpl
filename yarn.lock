@@ -2161,7 +2161,7 @@ copy-webpack-plugin@^5.0.2:
     normalize-path "^3.0.0"
     p-limit "^2.2.0"
     schema-utils "^1.0.0"
-    serialize-javascript "^1.7.0"
+    serialize-javascript "2.1.1"
     webpack-log "^2.0.0"
 
 core-js@^2.4.0, core-js@^2.6.5:
